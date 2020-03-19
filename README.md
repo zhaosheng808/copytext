@@ -2,6 +2,11 @@
 
 h5实现一键复制到粘贴板 兼容ios
 
+
+## 效果展示
+先贴上测试连接 [http://cdn.foundao.com/zhaosheng/copytext](http://cdn.foundao.com/zhaosheng/copytext)
+![http://cdn.foundao.com/zhaosheng/copytext/code.png](http://cdn.foundao.com/zhaosheng/copytext/code.png)
+
 ## 实现原理
 
 采用`document.execCommand('copy')`来实现复制到粘贴板功能
